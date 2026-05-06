@@ -93,9 +93,9 @@ export const UNITS: Record<string, UnitConfig> = {
   root: {
     id: 'root',
     code: 'root',
-    title: '26FP43CF074',
-    fullTitle: 'II Jornada nacional de educación a distancia y semipresencial',
-    siteTitle: 'II Jornada</br>distancia y semipresencial',
+    title: 'II JNE distancia y semipresencial',
+    fullTitle: 'II Jornada Nacional de Educación a distancia y semipresencial',
+    siteTitle: 'distancia &</br>semipresencial',
     icon: '📐',
     navbar: [{ text: '🏠 Inicio', link: '/' }],
     sidebar: []
@@ -108,9 +108,9 @@ export const UNITS: Record<string, UnitConfig> = {
   MODULO: {
     id: 'MODULO',
     code: 'general',    // → archivos en src/general/
-    title: 'Proyecto Intermodular',
-    fullTitle: 'Modulo General - Fundamentos',
-    siteTitle: 'Proyecto</br>Intermodular',
+    title: 'II JNE distancia y semipresencial',
+    fullTitle: 'II Jornada Nacional de Educación a distancia y semipresencial',
+    siteTitle: 'distancia &</br>semipresencial',
     icon: '📘',
     navbar: baseNavbar,
     sidebar: baseSidebar
