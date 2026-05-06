@@ -35,80 +35,28 @@ import type { NavGroup } from '../shared/navigation'
 // --- Navbar de la unidad principal ---
 const baseNavbar: DefaultTheme.NavItem[] = [
   { text: '🏠 Inicio', link: '/' },
-  {
-    text: '📚 Unidades',
-    items: [
-      { text: 'General', link: '/index' },
-    ]
-  },
 ]
 
 // --- Sidebar de la unidad principal ---
 const baseSidebar: DefaultTheme.SidebarItem[] = [
+
   {
-    text: '📚 Primeros pasos',
+    text: '🎞️ Diapositivas',
     collapsed: false,
     items: [
-      { text: 'Introducción', link: '/contenidos/1-introduccion' },
-      { text: 'Instalación y Arranque', link: '/contenidos/2-instalacion' },
-      { text: 'Estructura del Proyecto', link: '/contenidos/3-estructura' },
+      { text: 'Presentación', link: '/contenidos/2-diapositivas' }
     ]
   },
   {
-    text: '🛠️ Configura tu curso',
-    collapsed: false,
-    items: [
-      { text: 'Curso único', link: '/contenidos/4-curso-unico' },
-      { text: 'Curso modular', link: '/contenidos/5-curso-modular' },
-      { text: 'Configuración e Identidad', link: '/contenidos/6-configuracion' },
-    ]
-  },
-  {
-    text: '✍️ Crea contenidos',
-    collapsed: false,
-    items: [
-      { text: 'Crear Contenidos', link: '/contenidos/7-crear-contenidos' },
-      { text: 'Catálogo de Componentes', link: '/contenidos/8-componentes' },
-    ]
-  },
-  {
-    text: '🎞️ Diapositivas e Imágenes',
+    text: 'Ejemplos',
     collapsed: true,
     items: [
-      { text: 'Crear Diapositivas', link: '/contenidos/9-diapositivas' },
-      { text: 'Catálogo de Patrones', link: '/contenidos/10-diapositivas-demo' },
-      { text: 'Imágenes para Contenido', link: '/contenidos/11-imagenes' },
+      { text: 'Guia didáctica', link: '/contenidos/1-guia-didactica-PI2' },
+      { text: 'Combinación de temario', link: '/contenidos/3-ejemplo-combinacion-temario' },
+      { text: 'Proyecto base', link: '/contenidos/4-proyecto-base' }
+
     ]
   },
-  {
-    text: '🌐 Publicación',
-    collapsed: true,
-    items: [
-      { text: 'Despliegue', link: '/contenidos/12-despliegue' },
-    ]
-  },
-  {
-    text: '📖Ejemplos',
-    collapsed: true,
-    items: [
-      { text: 'Guia del curso', link: '/contenidos/13-ejemplo-guia' },
-    ]
-  },
-  {
-    text: '🗂️ Ejercicios',
-    collapsed: true,
-    items: [
-      { text: 'Introducción', link: '/ejercicios/' },
-      { text: 'Imágenes en Ejercicios', link: '/ejercicios/imagenes-ejercicios' },
-      {
-        text: 'Ejemplos',
-        items: [
-          { text: 'Historia gamificada (parallax)', link: '/ejercicios/ejercicio' },
-          { text: 'Enunciado directo (Markdown)', link: '/ejercicios/enunciado' },
-        ]
-      }
-    ]
-  }
 ]
 
 // ============================================================================
@@ -145,9 +93,9 @@ export const UNITS: Record<string, UnitConfig> = {
   root: {
     id: 'root',
     code: 'root',
-    title: 'EduPress',
-    fullTitle: 'Plantilla EduPress Modular',
-    siteTitle: 'EduPress</br>Plantilla',
+    title: '26FP43CF074',
+    fullTitle: 'II Jornada nacional de educación a distancia y semipresencial',
+    siteTitle: 'II Jornada</br>distancia y semipresencial',
     icon: '📐',
     navbar: [{ text: '🏠 Inicio', link: '/' }],
     sidebar: []
@@ -160,9 +108,9 @@ export const UNITS: Record<string, UnitConfig> = {
   MODULO: {
     id: 'MODULO',
     code: 'general',    // → archivos en src/general/
-    title: 'Modulo General',
+    title: 'Proyecto Intermodular',
     fullTitle: 'Modulo General - Fundamentos',
-    siteTitle: 'Modulo</br>General',
+    siteTitle: 'Proyecto</br>Intermodular',
     icon: '📘',
     navbar: baseNavbar,
     sidebar: baseSidebar

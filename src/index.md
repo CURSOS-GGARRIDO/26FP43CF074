@@ -2,34 +2,25 @@
 layout: home
 
 hero:
-  name: "EduPress"
-  text: "Crea cursos en Markdown"
-  tagline: "Diapositivas, ejercicios y bloques enriquecidos. Desplegable en GitHub Pages en minutos."
+  name: "II Jornada nacional de educación a distancia y semipresencial"
+  text: "Código 26FP43CF074"
+  tagline: "El módulo de sostenibilidad y proyecto intermodular en semipresencial y a distancia"
   actions:
     - theme: brand
-      text: Curso único →
-      link: /general/contenidos/4-curso-unico
-    - theme: alt
-      text: Curso modular →
-      link: /general/contenidos/5-curso-modular
+      text: Comenzar →
+      link: /general/contenidos/2-diapositivas
 
 features:
-  - icon: 📝
-    title: Todo en Markdown
-    details: Bloques :::info-box, :::accent-box, pestañas y tablas. Sin HTML, sin Vue, sin código.
-  - icon: 🎞️
-    title: Diapositivas nativas
-    details: Componente SlidesViewer con lightbox y pantalla completa. Las imágenes como slides.
-  - icon: 🎮
-    title: Ejercicios gamificados
-    details: Historia visual con scroll parallax que conduce al enunciado. Íconos de criterios WCAG.
-  - icon: ⚙️
-    title: 4 archivos, todo configurado
-    details: project.ts, colors.ts, logos.ts, units.ts. Sin tocar CSS ni componentes Vue.
-  - icon: 🌙
-    title: Modo oscuro automático
-    details: Colores, diagramas Mermaid y diapositivas se adaptan al tema del sistema operativo.
-  - icon: 🚀
-    title: GitHub Pages en un push
-    details: GitHub Actions incluido en la plantilla. Un push a main y el curso está publicado.
+  - icon: 🗓️
+    title: Jueves, 7 de mayo
+    details: Sala de usos múltiples · Aforo 125.
+  - icon: 🏫
+    title: IES Serpis × CEEDCV
+    details: Código de la jornada 26FP43CF074.
+  - icon: 🎤
+    title: Ponente — Guillermo Garrido
+    details: Profesor del CEEDCV · Informática.
+  - icon: 📚
+    title: Módulo de proyecto intermodular
+    details: Enfoque intermodular en semipresencial y a distancia.
 ---

@@ -20,7 +20,7 @@ export const PROJECT = {
   //   '/'                   → dominio raíz (https://midominio.com/)
   //
   // ⚠️ Siempre con barras al inicio Y al final.
-  basePath: '/EduPress/',
+  basePath: '/26FP43CF074/',
 
   // --------------------------------------------------------------------------
   // IDIOMA
@@ -31,12 +31,12 @@ export const PROJECT = {
   // DESCRIPCIÓN DEL SITIO
   // --------------------------------------------------------------------------
   // Aparece en los metadatos SEO y como subtítulo en buscadores.
-  description: 'EduPress — Plantilla modular para VitePress',
+  description: '26FP43CF074 — II Jornada nacional de educación a distancia y semipresencial',
 
   // --------------------------------------------------------------------------
   // COPYRIGHT (pie de página)
   // --------------------------------------------------------------------------
-  copyright: 'Copyright © 2025',
+  copyright: 'Copyright © 2026',
 
   // --------------------------------------------------------------------------
   // ENLACES SOCIALES

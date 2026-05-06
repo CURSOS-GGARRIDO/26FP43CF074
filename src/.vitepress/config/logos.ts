@@ -39,8 +39,8 @@ export const LOGOS = {
   // Ajusta las alturas según el tamaño y proporción de tus imágenes.
   // Usa unidades CSS: 'px', 'rem', '%', etc.
   heights: {
-    autor:  '165px',  // Logo del autor / profesor  (sidebar y footer)
-    gva:    '60px',   // Logo de la Generalitat Valenciana / institución
+    autor: '135px',  // Logo del autor / profesor  (sidebar y footer)
+    gva: '60px',   // Logo de la Generalitat Valenciana / institución
     centro: '90px',   // Logo del centro educativo
     footer: '75px',   // Logo del pie de página (versión compacta del autor)
   },
