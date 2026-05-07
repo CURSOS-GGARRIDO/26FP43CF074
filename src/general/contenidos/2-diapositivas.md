@@ -324,7 +324,7 @@ El temor a que la IA escriba el proyecto entero por el alumno, anulando la valid
 - **Mesa Redonda:** Debate técnico y defensa de decisiones frente a compañeros y tribunal.
 :::
 
-::: accent-box success ✨ Entrega y Post-Mortem
+::: accent-box success ✨ Entrega
 El proyecto cierra con una retrospectiva evaluando el aprendizaje. Se entrega el repositorio, docs y el enlace de producción.
 :::
 
@@ -352,10 +352,10 @@ El proyecto cierra con una retrospectiva evaluando el aprendizaje. Se entrega el
 
 ---
 
-## Preguntas y Debate
+## 🎓 Fin de la presentación
 
-::: accent-box 🎓 Fin de la presentación
-¿Dudas, preguntas, comentarios?
+::: accent-box
+¿Dudas, preguntas, aclaraciones?
 :::
 
 </SlidesViewer>
