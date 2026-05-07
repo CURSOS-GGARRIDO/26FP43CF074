@@ -189,13 +189,13 @@ Los alumnos traen sus propios avances, problemas y dudas transversales y se retr
 
 ## Visión, Requisitos y Planificación Ágil
 
-> "El MVP debe resolver el problema principal con el mínimo esfuerzo posible, diferenciando estrictamente lo vital de lo accesorio."
->
-> — *Filosofía Lean & Agile*
-
 ::: tabs
 
 == 🚀 Visión y MVP
+
+> "El MVP debe resolver el problema principal con el mínimo esfuerzo posible, diferenciando estrictamente lo vital de lo accesorio."
+>
+> — *Filosofía Lean & Agile*
 
 - **Lean Canvas:** Plan de negocio en una página.
 - **Roles:** Product Owner, Scrum Master, Development Team.
@@ -207,10 +207,7 @@ Los alumnos traen sus propios avances, problemas y dudas transversales y se retr
 - **Estimación:** Story Points (Planning Poker).
 - **Criterios:** Definition of Ready (DoR) y Definition of Done (DoD).
 
-== 🔄 Sprints
-
-- **Iteraciones:** Flujo continuo: Planning → Dailies → Review → Retrospective.
-- **Seguimiento:** Si es individual, se exige un *Diario de Desarrollo* cada 3 días.
+![alt text](image.png)
 
 :::
 
