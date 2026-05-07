@@ -17,7 +17,10 @@ features:
   - icon: 🏫
     title: IES Serpis × CEEDCV
     details: Código de la jornada 26FP43CF074.
-  - icon: 🎤
+  - icon:
+      src: /img/logo-autor.png
+      alt: Logo autor
+      dark: /img/logo-autor-dark.png
     title: Ponente — Guillermo Garrido
     details: Profesor del CEEDCV · Informática.
   - icon: 📚
