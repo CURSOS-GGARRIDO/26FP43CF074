@@ -54,10 +54,8 @@ description: El módulo de sostenibilidad y proyecto intermodular en semipresenc
 
 ## La Barrera Normativa en PI2
 
-> La normativa establece límite estricto para garantizar la viabilidad y calidad del título.
-
-::: accent-box danger ⛔ Condición Innegociable para la Defensa
-**Todos los módulos del ciclo formativo previamente aprobados**
+::: accent-box danger ⛔ Todos los módulos del ciclo formativo previamente aprobados
+La normativa establece límite estricto para garantizar la viabilidad y calidad del título.
 :::
 
 ::: note-box Desarrollo vs. Evaluación
@@ -70,7 +68,7 @@ El estudiante puede trabajar y desarrollar el PI2 durante el curso de forma simu
 
 ![Evolución](/img/contenidos/general/diapositivas/03.png)
 
-> Para mitigar la falta de conocimientos iniciales se ha dividido la carga en dos fases de inmersión progresiva.
+> Para mitigar la falta de conocimientos iniciales se ha dividido la carga en dos fases por curso.
 
 ::: tabs
 
@@ -92,17 +90,6 @@ Enfoque centrado en la **ejecución técnica**.
 
 ## Diseño Integrador y Selección de Criterios
 
-<div v-pre>
-
-```mermaid
-flowchart LR
-    A[Contenidos Modulares] --> B[Planteamiento del Proyecto]
-    B --> C[Selección RA y CE]
-    C --> D[Evaluación Independiente]
-```
-
-</div>
-
 ::: info-box Proceso de Configuración
 
 - **1. Planteamiento:** Se diseña un proyecto final estructurado en base a los contenidos de cada módulo del ciclo.
@@ -122,9 +109,9 @@ flowchart LR
 ::: info-box Desglose de la Calificación
 
 - **40% Proyecto:** Implementación técnica y funcionalidad.
-- **20% Documentación:** Calidad técnica y diagramación.
-- **20% Defensa:** Exposición y debate técnico.
-- **10% Participación:** Implicación diaria.
+- **20% Documentación:** Calidad técnica y memoria descriptiva.
+- **20% Defensa:** Exposición oral y debate técnico.
+- **10% Participación:** Implicación en mesa redonda, tutorías, etc.
 - **10% PI1:** Nota de la fase previa.
 :::
 
@@ -151,6 +138,16 @@ La solución es **auditar el proceso de construcción** imponiendo un punto de p
 - **Infraestructura y estructura base a seguir**
 - **Tutorías de Control**
 - **Control de versiones**
+:::
+
+---
+
+## Infraestructura y estructura base a seguir
+
+![Diagrama #center](/img/contenidos/general/diapositivas/diagrama.png)
+
+::: warning-box Requisitos de Seguimiento Innegociables
+Todos los proyectos deben partir de la estructura base innegociable.
 :::
 
 ---
