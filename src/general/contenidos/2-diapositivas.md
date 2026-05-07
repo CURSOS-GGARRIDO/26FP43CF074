@@ -75,10 +75,10 @@ El estudiante puede trabajar y desarrollar el PI2 durante el curso de forma simu
 == 📚 Preparación y Bases
 Enfoque centrado en la **fase teórica y organizativa**.
 
-- PI1: Conceptos refuerzan o complementando los conocimientos de módulos.
+- PI1: Conceptos que refuerzan o complementan los conocimientos de los módulos.
 - PI2: Proyecto mínimo viable (MVP) con tecnologías actuales del sector.
 
-== 💻 Prácticay Ejecución
+== 💻 Práctica y Ejecución
 Enfoque centrado en la **ejecución técnica**.
 
 - PI1: aplicación básica con conocimientos mínimos para segundo curso.
@@ -178,10 +178,10 @@ La culminación del módulo para todo el alumnado, hayan participado o no en los
 ![Temario transversal](/img/contenidos/general/diapositivas/11.png)
 
 ::: info-box 📋 Todos acceden a todo
-El temario y los ejemplos se comparten entre ciclos para proporcionar una vision completa y transversal de los contenidos.
+El temario y los ejemplos se comparten entre ciclos para proporcionar una visión completa y transversal de los contenidos.
 :::
 
-::: accent-box 🤝 Tutorias más participativas
+::: accent-box 🤝 Tutorías más participativas
 Los alumnos traen sus propios avances, problemas y dudas transversales y se retroalimentan entre todos.
 :::
 
@@ -309,7 +309,7 @@ El temor a que la IA escriba el proyecto entero por el alumno, anulando la valid
 
 - Generan reglas, skills y agentes de IA para los contenidos vistos en el módulo.
 
-> La IA no solo códifica, ayuda a establecer y revisar requisitos, historias, arquitectura, etc.
+> La IA no solo codifica, ayuda a establecer y revisar requisitos, historias, arquitectura, etc.
 >
 > ![alt text](image-3.png)
 :::
@@ -346,9 +346,9 @@ El proyecto cierra con una retrospectiva evaluando el aprendizaje. Se entrega el
 
 ::: warning-box Futuras mejoras
 
-- Mejoras en la evaluación con casuisticas concretas.
+- Mejoras en la evaluación con casuísticas concretas.
 - Pasar parte del temario actual de PI2 a PI1 para alcanzar objetivos más ambiciosos en PI2.
-- Implementar sesiones mixtas de tutorias para permitir la participación de alumnos de diferente ciclos.
+- Implementar sesiones mixtas de tutorías para permitir la participación de alumnos de diferentes ciclos.
 - Implementar más proyectos en equipo (mixtos)
 
 :::

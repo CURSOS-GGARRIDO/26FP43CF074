@@ -220,7 +220,7 @@ En esta fase se define cómo se va a organizar el equipo y qué funcionalidades 
   * Estimé mal la tarea de autenticación JWT. Pensé que serían 5 puntos pero tardé 8 horas.
   * Pasé demasiado tiempo probando manualmente. Debería empezar antes con tests unitarios.
 
-  * **Acción de mejora para la proxima semana:**
+  * **Acción de mejora para la próxima semana:**
   * Reservar 1 hora al día para escribir tests unitarios con Jest.
   * Leer más sobre tokens JWT antes de empezar la siguiente tarea de autenticación.
 
@@ -235,7 +235,7 @@ En esta fase se define cómo se va a organizar el equipo y qué funcionalidades 
 
 Definición visual y funcional de la aplicación antes de tirar líneas de código.
 
-Para ahorrar tiempo, se entregan al menos 1 ejemplo de los siguiente artefactos:
+Para ahorrar tiempo, se entregan al menos 1 ejemplo de los siguientes artefactos:
 
 * **Wireframes:** Esquemas estructurales de baja fidelidad de las pantallas.
 
@@ -593,7 +593,7 @@ Reglas sobre cómo el equipo escribe, comparte y documenta el código.
     >
     > Ejemplos de reglas globales y flujos de IA para que el equipo documente cómo se ha configurado la inteligencia artificial en su entorno de desarrollo, asegurando que cualquier miembro del equipo (o el profesor) pueda entender y replicar el proceso.
     >
-    > **Knowledge Items (KIs):** Se pueden añadir al gun ejemplo de los pequeños archivos `.md` de la carpeta `/docs/context` que la IA usa para entender el proyecto (ej. `modelo-base-datos.md` para que la IA sepa qué columnas existen al generar una consulta SQL).
+    > **Knowledge Items (KIs):** Se pueden añadir algún ejemplo de los pequeños archivos `.md` de la carpeta `/docs/context` que la IA usa para entender el proyecto (ej. `modelo-base-datos.md` para que la IA sepa qué columnas existen al generar una consulta SQL).
 
   ### Ejemplo del flujo de las herramientas anteriores de IA en el proyecto TaskFlow
 

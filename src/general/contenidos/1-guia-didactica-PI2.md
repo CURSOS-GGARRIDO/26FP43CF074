@@ -39,7 +39,7 @@ aside: true
 ::: info 🔍 Descripción del Curso
 Este curso está diseñado para proporcionar a los alumnos de **DAW, DAM y ASIR** una base sólida en la gestión de proyectos tecnológicos, el diseño de arquitecturas y las metodologías de desarrollo y operaciones modernas. A través de un enfoque práctico y adaptado a cada especialidad, los estudiantes aprenderán a planificar, ejecutar y desplegar proyectos técnicos, preparándolos para los desafíos del sector.
 
-  > Aunque las líneas generales se mantendrán durante todo el curso, esta guía es un documento vivo que puede ir actualizándose (básicamente aclaraciones) a lo largo del curso. Todas las modificaciones serán notificadas a través del foro de _Novedades_ del aula de del módulo.
+  > Aunque las líneas generales se mantendrán durante todo el curso, esta guía es un documento vivo que puede ir actualizándose (básicamente aclaraciones) a lo largo del curso. Todas las modificaciones serán notificadas a través del foro de _Novedades_ del aula del módulo.
 :::
 
 ## 🎯 Objetivos de Aprendizaje {.animate-title}
@@ -542,12 +542,12 @@ La evaluación del módulo será **continua, formativa e integradora**, centrán
 > ### Principios y Condiciones de la Evaluación
 >
 >* **Aprobado de Módulos Previos:** Para poder finalizar el módulo es necesario tener aprobados los módulos cuyos RAs se trabajan en Proyecto Intermodular. Aquel alumnado que no vaya a tener en el momento de la prueba final dichos módulos aprobados es aconsejable que anule la matricula de este módulo (PI2).
->* **Nivel de Exigencia:** No te confies. El principio del curso puede ser asequible, pero al final se te va a exigir un proyecto en el que incluyas conocimientos de varios del módulos del ciclo. Si no tienes adquiridos esos conocimientos será muy complicado aprobar PI2.
->* **Alumnado de PI1 y PI2 simultáneo:** Si estas cursando simultáneamente _Proyecto Intermodular 1_ (PI1) y _Proyecto Intermodular 2_ (PI2), ponte en contacto con el profesor de PI2 para que te explique cual será tu plan de aprendizaje, evaluación y calificacíon.
+>* **Nivel de Exigencia:** No te confíes. El principio del curso puede ser asequible, pero al final se te va a exigir un proyecto en el que incluyas conocimientos de varios del módulos del ciclo. Si no tienes adquiridos esos conocimientos será muy complicado aprobar PI2.
+>* **Alumnado de PI1 y PI2 simultáneo:** Si estás cursando simultáneamente _Proyecto Intermodular 1_ (PI1) y _Proyecto Intermodular 2_ (PI2), ponte en contacto con el profesor de PI2 para que te explique cuál será tu plan de aprendizaje, evaluación y calificación.
 >* **Entregas y Plazos:** Todas las tareas (fases del proyecto), excepto la última, tendrán asignada una fecha de entrega _recomendada_. Estas fechas estarán ubicadas para que el alumno mantenga un flujo de trabajo uniforme, pero no son de obligado cumplimiento.
 >    En el caso de la última entrega, la previa a la prueba presencial, la fecha es **inamovible y no se admitirán entregas fuera de plazo en ningún caso**.
->    > Recuerda que la fecha de la entrega final es fecha límite. En caso de tener alguna circunstancia personal, laboral o familiar que te dificulte la entrega ese día, planificate para realiazarla previamente.
->* **Fraude:** La detección de fraude o copia en cualquiera de las fases del proyecto implicará una calificación de 0 en el instrumento correspondiente y puede suponer la pérdida del derecho a la evaluación continua. Ten en cuenta que este concpeto de copia o de fraude está también asociado al uso indebido o abusivo de la IA.
+>    > Recuerda que la fecha de la entrega final es fecha límite. En caso de tener alguna circunstancia personal, laboral o familiar que te dificulte la entrega ese día, planifícate para realizarla previamente.
+>* **Fraude:** La detección de fraude o copia en cualquiera de las fases del proyecto implicará una calificación de 0 en el instrumento correspondiente y puede suponer la pérdida del derecho a la evaluación continua. Ten en cuenta que este concepto de copia o de fraude está también asociado al uso indebido o abusivo de la IA.
 
 ### Instrumentos de Evaluación y Calificación
 
@@ -623,7 +623,7 @@ Este apartado valora la **implicación activa** del alumno, una competencia clav
 
 ### 📝 Recuperación
 
-En caso de que un estudiante no obtenga más de un 5/10 en la convocatoria ordinaria, tenga algún módulo pendiente o renuncie a dicha convocatoria, podrá acceder a una segunda convocatoria a finales del mes de junio. El instrumento de calificación, así como los requisitos y protocolo serán los mismo que en la evaluación ordinaria.
+En caso de que un estudiante no obtenga más de un 5/10 en la convocatoria ordinaria, tenga algún módulo pendiente o renuncie a dicha convocatoria, podrá acceder a una segunda convocatoria a finales del mes de junio. El instrumento de calificación, así como los requisitos y protocolo serán los mismos que en la evaluación ordinaria.
 
 ## 🛠️ Recursos y Herramientas {.animate-title}
 
