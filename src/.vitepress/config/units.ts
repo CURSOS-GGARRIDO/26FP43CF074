@@ -53,8 +53,8 @@ const baseSidebar: DefaultTheme.SidebarItem[] = [
     items: [
       { text: 'Guia didáctica', link: '/contenidos/1-guia-didactica-PI2' },
       { text: 'Combinación de temario', link: '/contenidos/3-ejemplo-combinacion-temario' },
-      { text: 'Proyecto base', link: '/contenidos/4-proyecto-base' }
-
+      { text: 'Proyecto base', link: '/contenidos/4-proyecto-base' },
+      { text: 'Guía de entrega', link: '/contenidos/5-entrega' },
     ]
   },
 ]

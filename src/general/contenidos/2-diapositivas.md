@@ -335,18 +335,30 @@ El proyecto cierra con una retrospectiva evaluando el aprendizaje. Se entrega el
 
 ## Conclusiones
 
-### Lo que funciona
+::: info-box Lo que funciona
 
 - La motivación y el compromiso del alumnado.
 - El aprendizaje basado en proyectos.
 - Los contenidos cercanos a la empresa y al uso de herramientas profesionales.
 - La defensa presencial.
 
-### Futuras mejoras
+:::
+
+::: warning-box Futuras mejoras
 
 - Mejoras en la evaluación con casuisticas concretas.
 - Pasar parte del temario actual de PI2 a PI1 para alcanzar objetivos más ambiciosos en PI2.
 - Implementar sesiones mixtas de tutorias para permitir la participación de alumnos de diferente ciclos.
 - Implementar más proyectos en equipo (mixtos)
+
+:::
+
+---
+
+## Preguntas y Debate
+
+::: accent-box 🎓 Fin de la presentación
+¿Dudas, preguntas, comentarios?
+:::
 
 </SlidesViewer>
