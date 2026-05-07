@@ -236,16 +236,18 @@ Los alumnos traen sus propios avances, problemas y dudas transversales y se retr
 
 ::: info-box Diagramas y Base de Datos
 
-- **Casos de Uso**.
-- **ERD**.
-- **Secuencia**.
+- **Casos de Uso**
+- **ERD**
+- **Secuencia**
+
+> Cambio de herramientas como draw.io o Lucidchart a Mermaid en Markdown.
+
 :::
 
 ::: warning-box Decisiones y Despliegue
 Las decisiones estructurales no se toman al azar; deben quedar documentadas.
 
 - **Mapa de Infraestructura:** Ubicación en la nube (Vercel, Render, AWS).
-- **ADRs (Architecture Decision Records):** Documentos que justifican el "por qué" de una tecnología y los *trade-offs* (compensaciones) asumidos.
 :::
 
 ---
@@ -258,9 +260,11 @@ Las decisiones estructurales no se toman al azar; deben quedar documentadas.
 
 == 🌳 Ramificación y PRs
 Uso de Trunk-Based o Git Flow. La rama **main** siempre está protegida. El código se integra obligatoriamente mediante **Pull Requests (PRs)** validadas por pares.
+> ![alt text](image-2.png)
 
 == 📝 Commits Semánticos
 Historial comprensible usando el estándar **Conventional Commits** (ej. **feat:**, **fix:**, **docs:**). Permite auditoría del trabajo diario.
+> ![alt text](image-1.png)
 
 == 📖 Documentación Viva
 Filosofía **Docs-as-Code**: Toda la documentación reside en Markdown (**md**) junto al código. Los esquemas se generan directamente con código usando *Mermaid*.
@@ -306,6 +310,8 @@ El temor a que la IA escriba el proyecto entero por el alumno, anulando la valid
 - Generan reglas, skills y agentes de IA para los contenidos vistos en el módulo.
 
 > La IA no solo códifica, ayuda a establecer y revisar requisitos, historias, arquitectura, etc.
+>
+> ![alt text](image-3.png)
 :::
 
 ---
